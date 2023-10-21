@@ -78,11 +78,11 @@ Jawaban Tugas
 
 1. Pertama tama kita membuat seperti ini
 
-![gambar1](GAMBAR-ITU/KUKA21.png)
+![gambar1](GAMBAR-ITU/KUKA23.png)
 
 Kemudian kita melanjutkan seperti ini
 
-![gambar1](GAMBAR-ITU/KUKA22.png)
+![gambar1](GAMBAR-ITU/KUKA24.png)
 
 
 2. Pertama tama kita membuat seperti ini
